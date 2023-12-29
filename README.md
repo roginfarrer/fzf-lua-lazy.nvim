@@ -1,4 +1,4 @@
-# fzf-lua-lazy
+# fzf-lua-lazy.nvim
 
 [fzf-lua](https://github.com/ibhagwan/fzf-lua) extension that provides handy functionality about plugins installed via [lazy.nvim](https://github.com/folke/lazy.nvim).
 
